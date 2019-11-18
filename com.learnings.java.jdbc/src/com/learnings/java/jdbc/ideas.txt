@@ -1,0 +1,5 @@
+Ideas:
+	- CRUD for dbs
+	- gdb
+	- erdb
+	- w3schools sql stuff
