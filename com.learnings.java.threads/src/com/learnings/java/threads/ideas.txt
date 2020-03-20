@@ -1,4 +1,0 @@
-Ideas:
-	- Race conditions
-	- Deadlocks
-	- GBS Slides

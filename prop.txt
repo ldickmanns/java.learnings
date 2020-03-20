@@ -1,0 +1,4 @@
+#Size of persons in cm
+#Mon Mar 09 07:40:36 CET 2020
+Luke=181
+Lisa=169

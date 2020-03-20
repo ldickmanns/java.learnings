@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Rename local variable &apos;t&apos; in &apos;com.learnings.java.threads.ThreadJoining.main(...)&apos; to &apos;thread&apos;&#x0A;- Original project: &apos;com.learnings.java.threads&apos;&#x0A;- Original element: &apos;com.learnings.java.threads.ThreadJoining.main(String[]).t&apos;&#x0A;- Renamed element: &apos;t&apos;&#x0A;- Update references to refactored element" description="Rename local variable &apos;t&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src&lt;com.learnings.java.threads{ThreadJoining.java[ThreadJoining~main~\[QString;@t!355!386!362!362!QThread;!0!false" name="thread" references="true" stamp="1559912089335" version="1.0"/>
-</session>

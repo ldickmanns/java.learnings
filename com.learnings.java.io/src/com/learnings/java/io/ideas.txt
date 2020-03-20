@@ -1,5 +1,0 @@
-Ideas:
-	- reading files
-	- writing files
-	- deleting files
-	- images (crud)

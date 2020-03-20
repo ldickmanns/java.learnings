@@ -1,6 +1,0 @@
-Ideas:
-	- Streams overview
-	- Collect
-	- Map
-	- Look internet for other Java 8 functionality
-	- Java 9/10/11

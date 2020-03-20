@@ -1,9 +1,0 @@
-package com.learnings.java;
-
-public class Bytes {
-
-	public static void main(String[] args) {
-		Byte b0 = 127;
-		
-	}
-}
