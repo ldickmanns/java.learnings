@@ -14,12 +14,12 @@ public class Lists {
 
 	public static void main(String[] args) {
 		// Creating a list and adding content to it:
-		List<Integer> list = new ArrayList<Integer>();
+		List<Integer> list = new ArrayList<>();
 		list.add(2);
 		list.add(1);
 		list.add(3);
 		
-		// Adding a list to anoter list:
+		// Adding a list to another list:
 		List<Integer> linkedList = new LinkedList<>();
 		linkedList.addAll(list);
 		

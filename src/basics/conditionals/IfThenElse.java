@@ -6,7 +6,6 @@ package basics.conditionals;
  *******************/
 
 public class IfThenElse {
-
 	public static void main(String[] args) {
 		boolean condition = true;
 		// if-then statement:
@@ -33,3 +32,4 @@ public class IfThenElse {
  * Else block is executed!	*
  * Short if-then!			*
  ****************************/
+

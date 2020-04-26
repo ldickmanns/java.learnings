@@ -12,13 +12,13 @@ public class ForLoops {
 
 	public static void main(String[] args) {
 		String[] strings = {"Coding ", "is ", "awesome!"};
-		
+
 		// for loop:
 		for (int i = 0; i < strings.length; i++) {
 			System.out.print(strings[i]);
 			strings[i] = strings[i].toUpperCase();
 		}
-		
+
 		System.out.println();
 		
 		// foreach or enhanced for loop:
