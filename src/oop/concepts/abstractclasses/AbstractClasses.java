@@ -6,11 +6,10 @@ package oop.concepts.abstractclasses;
  *******************/
 
 public class AbstractClasses {
-
 	public static void main(String[] args) {
 		// Creating new buildings.
 		OracleBuilding hq = 
-				new OracleBuilding("Headquater");
+				new OracleBuilding("Headquarter");
 		OracleBuilding lab =
 				new OracleBuilding("Lab");
 		
@@ -22,6 +21,7 @@ public class AbstractClasses {
 
 /************************************************
  * Output:										*
- * The building Headquater is owned by Oracle.	*
+ * The building Headquarter is owned by Oracle.	*
  * The building Lab is owned by Oracle.			*
  ************************************************/
+

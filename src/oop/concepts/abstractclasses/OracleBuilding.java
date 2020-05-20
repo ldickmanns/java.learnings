@@ -6,7 +6,6 @@ package oop.concepts.abstractclasses;
  *******************/
 
 public class OracleBuilding extends CompanyBuilding {
-
 	/** Constructor. */
 	public OracleBuilding(String name) {
 		super(name);
@@ -17,3 +16,4 @@ public class OracleBuilding extends CompanyBuilding {
 		return "Oracle";
 	}
 }
+

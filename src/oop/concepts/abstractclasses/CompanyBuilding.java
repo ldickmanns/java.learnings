@@ -6,9 +6,8 @@ package oop.concepts.abstractclasses;
  *******************/
 
 public abstract class CompanyBuilding {
-	
 	/** Name of the building. */
-	private String name;
+	private final String name;
 	
 	/** The company by which it is owned. */
 	protected abstract String getOwner();
@@ -24,3 +23,4 @@ public abstract class CompanyBuilding {
 				+ " is owned by " + getOwner() + ".");
 	}
 }
+
