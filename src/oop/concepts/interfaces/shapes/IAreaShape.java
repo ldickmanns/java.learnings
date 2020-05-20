@@ -1,4 +1,4 @@
-package oop.concepts.interfaces;
+package oop.concepts.interfaces.shapes;
 
 /*******************
  * Java Learnings  *
@@ -8,5 +8,5 @@ package oop.concepts.interfaces;
 public interface IAreaShape {
 	
 	/** Calculates the area. */
-	public double area();
+	double area();
 }

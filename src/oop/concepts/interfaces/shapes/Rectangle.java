@@ -1,4 +1,4 @@
-package oop.concepts.interfaces;
+package oop.concepts.interfaces.shapes;
 
 /*******************
  * Java Learnings  *
