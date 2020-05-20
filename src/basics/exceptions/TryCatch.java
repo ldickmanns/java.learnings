@@ -6,13 +6,9 @@ package basics.exceptions;
  *******************/
 
 public class TryCatch {
-
 	public static void main(String[] args) {
 		try {
-			/** 
-			 * Run code that can throw an
-			 * exception here.
-			 */
+			/** Run code that can throw exception here. */
 		} catch (Exception e) {
 			/** Handle the exception. */
 		}
@@ -33,3 +29,4 @@ public class TryCatch {
  * 		   at com.learnings.java.basics.exceptions.	*
  * 		   TryCatch.main(TryCatch.java:23)			*
  ****************************************************/
+
