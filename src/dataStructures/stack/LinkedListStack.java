@@ -25,7 +25,7 @@ public class LinkedListStack<E> {
     }
 }
 
-class Usage {
+class UsageLinkedListStack {
     public static void main(String[] args) {
         LinkedListStack<String> stack = new LinkedListStack<>();
         System.out.println(stack.isEmpty());    /** Output: true */
