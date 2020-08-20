@@ -17,7 +17,6 @@ public class LinkedListUsage {
         for (int i = 0; i < list.getSize(); i++) {
             System.out.print(list.get(i));
         } /** Output: 124 */
-        list.add(5);
     }
 }
 
