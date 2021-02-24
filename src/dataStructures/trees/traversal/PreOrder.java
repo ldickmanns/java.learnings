@@ -20,16 +20,6 @@ public class PreOrder {
     public static void main(String[] args) {
         Node root = Node.buildTree();
 
-        /************************
-         * This is the result:  *
-         ************************
-         *           4          *
-         *         /   \        *
-         *        2     6       *
-         *       / \   / \      *
-         *      1  3  5  7      *
-         ************************/
-
         /** Finally, this prints the output */
         List<Integer> result = preOrder(root);
         for (int i : result) {
