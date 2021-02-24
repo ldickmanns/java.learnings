@@ -32,7 +32,7 @@ public class PreOrder {
 }
 
 /********************
- * Preorder         *
+ * Pre-Order         *
  * Tree             *
  * Traversal        *
  ********************
